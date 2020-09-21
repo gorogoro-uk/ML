@@ -1,4 +1,4 @@
-# ML
-Machine Learning resources
+# Deep Learning
+Deep Learning resources
 
-course notes form 'machine learning specialisation'
+course notes from 'deep learning specialisation' 
